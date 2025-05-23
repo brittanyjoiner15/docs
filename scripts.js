@@ -1,3 +1,14 @@
+
+<!-- Testing Google analytics -->
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+  dataLayer.push(arguments);
+}
+gtag('js', new Date());
+
+gtag('config', 'G-L8S9XX7Z9L');
+
+
 console.log("test this runs")
 
 <script type="text/javascript">
